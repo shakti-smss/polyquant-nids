@@ -25,4 +25,4 @@ Environment: Google Colab (NVIDIA T4 GPU)
 Sharri Md. Shakti Shihab
 
 B.Sc. Student, Dept. of CSE, Northern University Bangladesh.
-[LinkedIn] [GitHub]
+[[LinkedIn](https://www.linkedin.com/in/shakti-smss/)] [[GitHub](https://github.com/shakti-smss/)]
